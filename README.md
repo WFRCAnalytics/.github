@@ -1,2 +1,4 @@
 # .github
-WFRC Analytics Github
+- WFRC Analytics Public Profile Repo
+- edit the
+
