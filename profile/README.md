@@ -1,12 +1,3 @@
-## Hi there 👋
+## Welcome to the WFRC Analytics Github! 🚗🚈🚲
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Check out this [guide](https://docs.google.com/document/d/1bboj_uEqY7Qf4vkXbarE6f1f5rjhIJTsyLYW7Hw3rPg/edit?tab=t.3c2oklh8bnu5) for some handy keywords to help you search through our content more easily.
